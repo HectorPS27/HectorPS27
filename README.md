@@ -2,7 +2,8 @@
 
 ##estudiante de septimo semestre de ingienería Mecatrónica pero con un fuerte gusto hacia la mecanica automotriz 
 
-![Ejemplo](mecatronica.jpg)
+![Ejemplo](img/mi_imagen.png)
+
 <!--
 **HectorPS27/HectorPS27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
