@@ -1,4 +1,6 @@
-## Hi there 👋
+## y10368hs@gmail.com
+
+##estudiante de septimo semestre de ingieneri Mecatrónica pero con un fuerte gusto hacia la mecanica automotriz 
 
 <!--
 **HectorPS27/HectorPS27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
