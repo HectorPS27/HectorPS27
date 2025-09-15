@@ -1,6 +1,6 @@
 ## y10368hs@gmail.com
 
-##estudiante de septimo semestre de ingienería Mecatrónica pero con un fuerte gusto hacia la mecanica automotriz 
+##Estudiante de septimo semestre de ingienería Mecatrónica pero con un fuerte gusto hacia la mecanica automotriz 
 
 ![Ejemplo](imagenes/mecatronica.jpg)
 
