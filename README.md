@@ -1,6 +1,6 @@
 
 
-### :smiley_cat: Estudiante de Ingeieria en Mecatrónica
+###  Estudiante de Ingeieria en Mecatrónica
 
 ### 
 ### 
