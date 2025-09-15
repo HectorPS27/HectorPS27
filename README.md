@@ -12,9 +12,10 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Contacto : 
-<a href="mailto:y10368hs@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contacto-blue?style=for-the-badge&logo=gmail" alt="Email">
+<a href="mailto:ty10368hs@gmail.com">
+  <img src="https://img.shields.io/badge/Email-tu_correo@example.com-blue?style=for-the-badge&logo=gmail" alt="Email">
 </a>
+
 
 <!--
 **AkuraDiary/AkuraDIary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
