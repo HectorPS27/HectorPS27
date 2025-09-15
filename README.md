@@ -1,6 +1,7 @@
 
 
-###  Estudiante de Ingeieria en Mecatrónica
+###  Estudiante de Ingeieria en Mecatrónica 🤖
+## gusto por la mecanica automtriz 🚗
 
 ### 
 ### 
