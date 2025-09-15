@@ -1,4 +1,4 @@
-<h1 align="center">src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+
 
 ### :smiley_cat: Estudiante de Ingeieria en Mecatrónica
 
